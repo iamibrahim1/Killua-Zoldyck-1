@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://api.zahwazein.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "zenzkey_5471f8a16e"
   },
   "options": {
     "autoRead": true,
@@ -10,12 +10,12 @@
     "limitGame": 20
   },
   "exif": {
-    "packname": "Killua Zoldyck",
-    "author": "https://api.zahwazein.xyz"
+    "packname": "ʟᴜᴄɪꜰᴇʀ ᴍᴅ",
+    "author": "Ibrahim"
   },
   "owner": [
-    "62812XXX"
+    "923229931076"
   ],
-  "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://api.zahwazein.xyz"
+  "timezone": "Asia/Karachi",
+  "footer": "Powered by ʟᴜᴄɪꜰᴇʀ ᴍᴅ owner"
 }
